@@ -12,7 +12,7 @@ import {stringify} from "querystring";
  */
 const request = extend({
   credentials: 'include', // 默认请求是否带上cookie
-  prefix: process.env.NODE_ENV === 'production' ? 'http://43.207.229.111:8080' : undefined
+  prefix: process.env.NODE_ENV === 'production' ? 'http://gunlab-nav.com' : undefined
   // requestType: 'form',
 });
 
