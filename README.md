@@ -16,4 +16,4 @@ Login menu:
 ![WeChat截图_20241212072922](https://github.com/user-attachments/assets/3ce6c545-07f5-4fcb-9e1e-fce52d0b4c75)
 
 Manager menu:
-![WeChat截图_20241212072922](https://github.com/user-attachments/assets/64d12f60-ccc5-4351-93d4-136ac33a89ec)
+![WeChat截图_20241216072045](https://github.com/user-attachments/assets/ac4b169d-e68b-4d20-94dd-be8b21a94a85)
