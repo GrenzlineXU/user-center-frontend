@@ -5,8 +5,10 @@ A one-stop user management system based on Spring Boot + React, implementing use
 
 Frontend:
 HTML, CSS, Js, TS, React, Ant Desgin pro, Ant Design, Umi, Umi Request, Forward/Reverse Proxy
+
 Backend:
 Java, Spring, SpringMVC, SpringBoot, Mybatis, Mybatis-plus, MySQL, JUnit, Maven
+
 Infra:
 Nginx, EC2, RDS, Xsell
 
