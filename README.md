@@ -4,6 +4,13 @@ Project Introduction
 A one-stop user management system based on Spring Boot + React, implementing user registration, login, search, and management functions.
 
 Frontend:
+HTML, CSS, Js, TS, React, Ant Desgin pro, Ant Design, Umi, Umi Request, Forward/Reverse Proxy
+Backend:
+Java, Spring, SpringMVC, SpringBoot, Mybatis, Mybatis-plus, MySQL, JUnit, Maven
+Infra:
+Nginx, EC2, RDS, Xsell
+
+Frontend points:
 1. To improve development efficiency, used Ant Design Pro to quickly set up the base UI and refactored the original template, extracting reusable public components for faster development.
 2. Used the umi-request request library to encapsulate API requests, adding global request interception and global exception handling, reducing redundant logic and improving user experience.
 3. During frontend development, leveraged Ant Design Pro’s proxy configuration to implement dev environment backend API access.
